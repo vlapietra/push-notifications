@@ -1,0 +1,23 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.0",
+  "description": "test service worker with push notifications",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/http-server -c-1 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlapietra/push-notifications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlapietra/push-notifications/issues"
+  },
+  "homepage": "https://github.com/vlapietra/push-notifications#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
